@@ -1,4 +1,4 @@
-package com.cty;
+package com.cty.test;
 
 public class Main {
 
